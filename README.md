@@ -31,5 +31,5 @@ Integrating federated learning techniques could improve privacy-preserving audit
 This experiment provides a foundation for real-time compliance dashboards, where organizations continuously monitor adherence to frameworks such as GDPR, CCPA, and ISO 27001.
 
 
-The overall insight reinforces that legal integrity is not achieved solely by enforcement—but by embedding ethics and security awareness directly within AI design.
+The overall insight reinforces that legal integrity is not achieved solely by enforcement but by embedding ethics and security awareness directly within AI design.
 
